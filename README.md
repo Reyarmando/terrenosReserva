@@ -44,3 +44,27 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+#### pasos a seguir para la aplicacion de treservaTerreno #####
+
+### requerimientos funcionales
+
+- login de administrador
+- reservas de terrenos
+- estado de reserva
+- tiene que ser con graficos
+- base de datos 
+- en web
+- api de reniec
+
+
+### Requerimientos no funcionales 
+
+- 
+
+- limpiar la plantilla
+- App.js Componentes : <Headre/>, <Home/>, <SherchPage>
+- enrutar home y searchPage con react-dom
+- Header: desplayDesktop(), desplayMobile()
+    - header displayDesktop()
+    - header displayMobile()
